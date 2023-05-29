@@ -6,9 +6,10 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
-    "three": "^0.149.0",
-    "three-mesh-bvh": "^0.5.23",
-    "web-ifc-three": "^0.0.122"
+    "three": "^0.135.0",
+    "three-mesh-bvh": "^0.5.16",
+    "web-ifc": "^0.0.35",
+    "web-ifc-three": "^0.0.119"
   },
   "devDependencies": {
     "cpy-cli": "^3.1.1"
